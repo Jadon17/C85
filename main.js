@@ -90,12 +90,12 @@ function my_keydown(e){
     }
 
     if(Key_ASCII == '66'){
-        newImage("body.PNG");
+        newImage("Body.PNG");
         console.log("g is pressed");
     }
 
     if(Key_ASCII == '76'){
-        newImage("legs.PNG");
+        newImage("Legs.PNG");
         console.log("l is pressed");
     }
 
@@ -106,6 +106,6 @@ function my_keydown(e){
 
     if(Key_ASCII == '72'){
         newImage("Left Hand.PNG");
-        console.log("l is pressed");
+        console.log("h is pressed");
     }
 }
